@@ -1,5 +1,6 @@
 # AI-Agents
-MAS and Agentic systems Demo.
+MAS and Agentic systems Demo: Two different AI approaches for real-time IT incident management, tools that can automatically analyze alerts, prioritize fixes, and recommend solutions during a system outage.
+
 Notebooks:
 - `it_incident_multi-agent.ipynb`: Basic Multi-Agent System (MAS)
 - `it_incident_agentic.ipynb`: Agentic System with single agent.
