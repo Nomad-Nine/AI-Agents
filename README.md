@@ -16,3 +16,5 @@ llm = ChatDatabricks(
 ```
 
 To display notebooks in Github, use the [nbviewer](https://github.com/jupyter/nbviewer) or open the files with github.dev. 
+
+The  associated article is available [here](https://medium.com/@tsiciliani/ai-agents-for-real-time-it-incident-response-3ce62dad43b0) and [here](https://tsicilian.wordpress.com/).
