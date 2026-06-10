@@ -1,9 +1,13 @@
 # AI-Agents
-MAS and Agentic systems Demo: Two different AI approaches for real-time IT incident management, tools that can automatically analyze alerts, prioritize fixes, and recommend solutions during a system outage.
+**MAS and Agentic systems Demo**: Two different AI approaches for real-time IT incident management, tools that can automatically analyze alerts, prioritize fixes, and recommend solutions during a system outage.
 
 Notebooks:
 - `it_incident_multi-agent.ipynb`: Basic Multi-Agent System (MAS)
 - `it_incident_agentic.ipynb`: Agentic System with single agent.
+
+**Deep Agent Demo**: Uses agent harness and sub-agents to perform real-time IT incident management.
+
+Notebook:
 - `it_incident_deep-agent.ipynb`: Deep Agent with sub-agents.
 
 These notebooks were developed using the [Databric Free Edition](https://www.databricks.com/learn/free-edition), but they can be run in other platforms. The only required change would be the model:
