@@ -4,6 +4,7 @@ MAS and Agentic systems Demo: Two different AI approaches for real-time IT incid
 Notebooks:
 - `it_incident_multi-agent.ipynb`: Basic Multi-Agent System (MAS)
 - `it_incident_agentic.ipynb`: Agentic System with single agent.
+- `it_incident_deep-agent.ipynb`: Deep Agent with sub-agents.
 
 These notebooks were developed using the [Databric Free Edition](https://www.databricks.com/learn/free-edition), but they can be run in other platforms. The only required change would be the model:
 
